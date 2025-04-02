@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const descrizione = document.querySelector(".descrizione");
     const dettagli = document.querySelectorAll(".dettagli figure");
     const musicaButton = document.getElementById("musica");
-    let audio = new Audio("audio/romantica.mp3");
+    let audio = new Audio("romantica.mp3");
     audio.loop = true;
     audio.play();
     let muted = false;
