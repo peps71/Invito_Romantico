@@ -1,6 +1,6 @@
 /* Impostazioni globali */
 body {
-    background: url('immagini/sfondo-romantico.png') no-repeat center center fixed;
+    background: url('sfondo-romantico.png') no-repeat center center fixed;
     background-size: cover;
     font-family: 'Dancing Script', cursive; /* Font romantico */
     text-align: center;
